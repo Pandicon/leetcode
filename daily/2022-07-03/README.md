@@ -1,4 +1,6 @@
-# 03/07/2022 - Wiggle Subsequence (Medium)
+# 03/07/2022 - Wiggle Subsequence (Medium), Problem #376
+
+The daily folder only includes the solutions and implementations I came up while the problem was a daily problem. If you want to see the other ones for this problem, [check it out in the problems directory](https://github.com/Pandicon/leetcode/tree/main/problems/0376).
 
 ## Problem description
 
