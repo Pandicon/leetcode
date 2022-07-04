@@ -53,9 +53,9 @@ Output: 2
   That also means you found a value that will be in the final subsequence, so you can add 1 to the current maximum length.
   <p>
     
-  | Time complexity | Space complexity | Primary implementation language |                        Runtime                       |                     Memory Usage                    |
-  | :-------------: | :--------------: | :------------------------------:| :--------------------------------------------------: | :-------------------------------------------------: |
-  |       O(N)      |       O(1)       |              Rust               | 0 ms, faster than 100.00% of Rust online submissions | 2.2 MB, less than 23.08% of Rust online submissions |
+  |         Implementation          | Time complexity | Space complexity |                        Runtime                       |                     Memory Usage                    |
+  | :-----------------------------: | :-------------: | :--------------: | :--------------------------------------------------: | :-------------------------------------------------: |
+  |              [Rust](https://github.com/Pandicon/leetcode/tree/main/problems/algorithms/0376/solution.rs)               |       O(N)      |       O(1)       | 0 ms, faster than 100.00% of Rust online submissions | 2.2 MB, less than 23.08% of Rust online submissions |
 </details>
 
 ## References
