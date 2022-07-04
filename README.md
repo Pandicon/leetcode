@@ -16,3 +16,9 @@ Each problem will have a description provided by LeetCode, a link to the problem
 | :--: | :---------------------------------------------------------------------------------------------------------: | :-------: | :--------: | :------------------------------------------------------------------------------------------------------------------------: |
 | 376  |        [Wiggle Subsequence](https://github.com/Pandicon/leetcode/tree/main/problems/algorithms/0376)        |   Rust    |   Medium   |               [leetcode.com/problems/wiggle-subsequence/](https://leetcode.com/problems/wiggle-subsequence/)               |
 | 2149 | [Rearrange Array Elements by Sign](https://github.com/Pandicon/leetcode/tree/main/problems/algorithms/2149) |   Rust    |   Medium   | [leetcode.com/problems/rearrange-array-elements-by-sign/](https://leetcode.com/problems/rearrange-array-elements-by-sign/) |
+
+## Concurrency
+
+|  #   |                                        Problem name                                        | Solutions | Difficulty |                                   Link to LeetCode                                   |
+| :--: | :----------------------------------------------------------------------------------------: | :-------: | :--------: | :----------------------------------------------------------------------------------: |
+| 1114 | [Print in Order](https://github.com/Pandicon/leetcode/tree/main/problems/concurrency/1114) | Python 3  |    Easy    | [leetcode.com/problems/print-in-order](https://leetcode.com/problems/print-in-order) |
