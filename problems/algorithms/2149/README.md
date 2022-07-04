@@ -57,8 +57,8 @@ So nums is rearranged to [1,-1].
     
   |          Implementation         | Time complexity | Space complexity |                        Runtime                       |                     Memory Usage                     |
   | :-----------------------------: | :-------------: | :--------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-  |     [Rust (filtering method)](https://github.com/Pandicon/leetcode/tree/main/problems/algorithms/2149/Rust/filtering.rs)     |       O(N)      |       O(N)       | 76 ms, faster than 93.75% of Rust online submissions | 4.6 MB, less than 100.00% of Rust online submissions |
-  |       [Rust (two pointers)](https://github.com/Pandicon/leetcode/tree/main/problems/algorithms/2149/Rust/two_pointers.rs)      |       O(N)      |       O(N)       | 72 ms, faster than 93.75% of Rust online submissions |  5.4 MB, less than 31.25% of Rust online submissions |
+  |     [Rust (filtering method)](https://github.com/Pandicon/leetcode/tree/main/problems/algorithms/2149/Rust/solution_filtering.rs)     |       O(N)      |       O(N)       | 76 ms, faster than 93.75% of Rust online submissions | 4.6 MB, less than 100.00% of Rust online submissions |
+  |       [Rust (two pointers)](https://github.com/Pandicon/leetcode/tree/main/problems/algorithms/2149/Rust/solution_two_pointers.rs)      |       O(N)      |       O(N)       | 72 ms, faster than 93.75% of Rust online submissions |  5.4 MB, less than 31.25% of Rust online submissions |
 </details>
 
 ## References
