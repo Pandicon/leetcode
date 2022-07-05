@@ -46,7 +46,7 @@ Output: 2
 **Warning: Try to solve the problem on your own before reading this, since it will spoil the solution.**
 
 <details>
-  <summary>Reveal</summary>
+  <summary><b>Reveal</b></summary>
   The problem wants you to find a sequence of numbers where the numbers are peaks and valleys, which you can achieve by ignoring numbers that are not peaks or valleys.
   My implementation keeps track of the current "direction" of the numbers, 1 for ascending and -1 for descending.
   Then given two numbers, if their direction is opposite from the current one, you know the direction changed, so you found a peak/valley.

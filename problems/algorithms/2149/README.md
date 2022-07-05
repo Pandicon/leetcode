@@ -45,13 +45,23 @@ So nums is rearranged to [1,-1].
 **Warning: Try to solve the problem on your own before reading this, since it will spoil the solution.**
 
 <details>
-  <summary>Reveal</summary>
+  <summary><b>Reveal</b></summary>
   There are two approaches I will cover here, both of them should be very similar in terms of performance and memory usage (they both have the same time and space complexity).
   <p>
     
-**First approach:** This approach is the more obvious one in my opinion since I thought of it almost immediately after reading the problem. You can basically go through the given array and filter the elements into two new arrays. One of them will hold positive numbers, while the other one will hold negative numbers. Then you can push the numbers into the result array, altering between a number from the array holding the positive numbers and from the array holding the negative numbers. This way you start with a positive number and the numbers will be altering between positive and negative. _This approach is named as the "filtering method" in the table below._
+  <details>
+  <summary>First approach</summary>
 
-**Second approach:** You can also create an array of 0s (or any other number really) of the same length as the numbers array given to you. Then you can create two pointers - one for the index where the next positive number will go (set to 0), and one for the index of the next negative number (set to 1). Then you can loop through the array of numbers and if you encounter a positive number, put it on the index saved in the positive number pointer and then increase that pointer by two. If you encounter a negative number, do the same with the negative number pointer. This way you will also have an altering sequence of positive and negative numbers (the positive pointer will go 0 -> 2 -> 4... and the negative 1 -> 3 -> 5...) and the final array will also start with a positive number (since the positive number pointer is initialised to 0). _This approach is named as "two pointers" in the table below._
+This approach is the more obvious one in my opinion since I thought of it almost immediately after reading the problem. You can basically go through the given array and filter the elements into two new arrays. One of them will hold positive numbers, while the other one will hold negative numbers. Then you can push the numbers into the result array, altering between a number from the array holding the positive numbers and from the array holding the negative numbers. This way you start with a positive number and the numbers will be altering between positive and negative. _This approach is named as the "filtering method" in the table below._
+
+  </details>
+    
+  <details>
+  <summary>Second approach</summary>
+
+You can also create an array of 0s (or any other number really) of the same length as the numbers array given to you. Then you can create two pointers - one for the index where the next positive number will go (set to 0), and one for the index of the next negative number (set to 1). Then you can loop through the array of numbers and if you encounter a positive number, put it on the index saved in the positive number pointer and then increase that pointer by two. If you encounter a negative number, do the same with the negative number pointer. This way you will also have an altering sequence of positive and negative numbers (the positive pointer will go 0 -> 2 -> 4... and the negative 1 -> 3 -> 5...) and the final array will also start with a positive number (since the positive number pointer is initialised to 0). _This approach is named as "two pointers" in the table below._
+
+  </details>
 
   <p>
     
