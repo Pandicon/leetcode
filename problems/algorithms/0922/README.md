@@ -35,7 +35,7 @@ Output: [2,3]
 
 <details>
   <summary><b>Reveal</b></summary>
-  There are four approaches I will cover here, all of them should be very similar in terms of performance and memory usage (they have the same time and space complexity).
+  There are four approaches I will cover here, three of them should be very similar in terms of performance and memory usage (they have the same time and space complexity) while the fourth one should be better in terms of memory.
   <p>
   <details>
   <summary><b>First approach</b></summary>
