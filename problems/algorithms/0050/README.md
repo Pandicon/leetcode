@@ -50,6 +50,8 @@ You can then either take the "bitwise" approach, where you check the individual 
   | :-----------------------------: | :-------------: | :--------------: | :--------------------------------------------------: | :-------------------------------------------------: |
   |              [Rust (bitwise)](https://github.com/Pandicon/leetcode/tree/main/problems/algorithms/0050/Rust/solution_bitwise.rs)               |       O(log(N))      |       O(1)       | 0 ms, faster than 100.00% of Rust online submissions | 1.9 MB, less than 95.15% of Rust online submissions |
   |              [Rust (division)](https://github.com/Pandicon/leetcode/tree/main/problems/algorithms/0050/Rust/solution_division.rs)               |       O(log(N))      |       O(1)       | 0 ms, faster than 100.00% of Rust online submissions | 2 MB, less than 66.02% of Rust online submissions |
+  |              [C (bitwise)](https://github.com/Pandicon/leetcode/tree/main/problems/algorithms/0050/C/solution_bitwise.rs)               |       O(log(N))      |       O(1)       | 0 ms, faster than 100.00% of C online submissions | 5.5 MB, less than 85.51% of C online submissions |
+  |              [C (division)](https://github.com/Pandicon/leetcode/tree/main/problems/algorithms/0050/C/solution_division.rs)               |       O(log(N))      |       O(1)       | 0 ms, faster than 100.00% of C online submissions | 5.4 MB, less than 85.51% of C online submissions |
 </details>
 
 ## References
