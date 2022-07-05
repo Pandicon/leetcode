@@ -67,4 +67,4 @@ This approach makes use of the match statement, where you match the results of t
 
 ## References
 
-[https://leetcode.com/problems/rearrange-array-elements-by-sign/](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
+[https://leetcode.com/problems/fizz-buzz/](https://leetcode.com/problems/fizz-buzz/)
