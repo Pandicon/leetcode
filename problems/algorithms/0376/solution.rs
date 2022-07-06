@@ -17,7 +17,7 @@ impl Solution {
             if diff == 0 {
                 continue;
             }
-            let diff_sign = diff/diff.abs();
+            let diff_sign = diff.signum();
             if dir == 0 || diff_sign != dir {
                 dir = diff_sign;
                 max_len += 1;
