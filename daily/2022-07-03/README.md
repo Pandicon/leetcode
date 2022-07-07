@@ -10,7 +10,7 @@ A **wiggle sequence** is a sequence where the differences between successive num
 -   In contrast, `[1, 4, 7, 2, 5]` and `[1, 7, 4, 5, 5]` are not wiggle sequences. The first is not because its first two differences are positive, and the second is not because its last difference is zero.
 
 A **subsequence** is obtained by deleting some elements (possibly zero) from the original sequence, leaving the remaining elements in their original order.
-Given an integer array `nums`, return \*the length of the longest **wiggle subsequence\*** of `nums`.
+Given an integer array `nums`, return *the length of the longest **wiggle subsequence*** of `nums`.
 
 **Follow up:** Could you solve this in `O(n)` time?
 
