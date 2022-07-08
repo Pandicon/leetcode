@@ -56,6 +56,7 @@ Output: 2
   |         Implementation          | Time complexity | Space complexity |                        Runtime                       |                     Memory Usage                    |
   | :-----------------------------: | :-------------: | :--------------: | :--------------------------------------------------: | :-------------------------------------------------: |
   |              [Rust](https://github.com/Pandicon/leetcode/tree/main/problems/algorithms/0376/solution.rs)               |       O(N)      |       O(1)       | 0 ms, faster than 100.00% of Rust online submissions | 2.2 MB, less than 23.08% of Rust online submissions |
+  |              [C](https://github.com/Pandicon/leetcode/tree/main/problems/algorithms/0376/solution.c)               |       O(N)      |       O(1)       | 0 ms, faster than 100.00% of C online submissions | 5.8 MB, less than 97.80% of C online submissions |
 </details>
 
 ## References
