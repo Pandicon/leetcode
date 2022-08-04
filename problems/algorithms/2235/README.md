@@ -29,7 +29,7 @@ Explanation: num1 + num2 = -6, so -6 is returned.
 **Warning: Try to solve the problem on your own before reading this, since it will spoil the solution.**
 
 <details>
-  <summary><b>Reveal</b></summary>
+  <summary>Reveal</summary>
 
 This question is most likely there for people that are just getting familiar with leetcode. The obvious solution is to use the built-in addition operator of the language. You could of course try to implement your own way through bit shifts and such, but there is no benefit to that.
 Just for the experience I implemented both the built-in solution (named "built-in" in the table below) and the bitwise one (named "bitwise" in the table below) in languages that allowed me to do so (for example C doesn't allow you to left-shift a negative number, unlike Rust).
