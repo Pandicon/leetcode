@@ -16,6 +16,7 @@ Each problem will have a description provided by LeetCode, a link to the problem
 | :--------: | :-------: | :-----------------------------------------------------------------------------------: | :-------: | :--------: | :--------------------------------------------------------------------------------------------: |
 | 03/07/2022 |    376    | [Wiggle Subsequence](https://github.com/Pandicon/leetcode/tree/main/daily/2022-07-03) |   Rust    |   Medium   | [leetcode.com/problems/wiggle-subsequence/](https://leetcode.com/problems/wiggle-subsequence/) |
 | 06/07/2022 |    509    |  [Fibonacci Number](https://github.com/Pandicon/leetcode/tree/main/daily/2022-07-06)  |  Rust, C  |    Easy    |   [leetcode.com/problems/fibonacci-number/](https://leetcode.com/problems/fibonacci-number/)   |
+| 03/08/2022 |    729    |   [My Calendar I](https://github.com/Pandicon/leetcode/tree/main/daily/2022-08-03)    |   Rust    |   Medium   |      [leetcode.com/problems/my-calendar-i/](https://leetcode.com/problems/my-calendar-i/)      |
 
 ## Algorithms
 
