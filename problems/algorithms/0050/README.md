@@ -37,7 +37,7 @@ Explanation: 2⁻² = 1/2² = 1/4 = 0.25
 **Warning: Try to solve the problem on your own before reading this, since it will spoil the solution.**
 
 <details>
-  <summary><b>Reveal</b></summary>
+  <summary>Reveal</summary>
 
 The first thing most people would probably try is multiplying the base n times, which is a good thought. Sadly the exponent here can be up to 2³¹, which eliminates this approach since it would take too long. If you try it, LeetCode will give you a "Time Limit Exceeded" error.
 The better way here is to use the "Square and multiply" algorithm, which is brilliantly explained by [Computerphile](https://www.youtube.com/watch?v=cbGB__V8MNk). It lets you use the fact that `x²ⁿ = (xⁿ)²`, so instead of going from `xⁿ` to `x²ⁿ` with n multiplications, you use just one squaring, bringing the time complexity from `n` to `log(n)`.
@@ -52,6 +52,8 @@ You can then either take the "bitwise" approach, where you check the individual 
   |              [Rust (division)](https://github.com/Pandicon/leetcode/tree/main/problems/algorithms/0050/Rust/solution_division.rs)               |       O(log(N))      |       O(1)       | 0 ms, faster than 100.00% of Rust online submissions | 2 MB, less than 66.02% of Rust online submissions |
   |              [C (bitwise)](https://github.com/Pandicon/leetcode/tree/main/problems/algorithms/0050/C/solution_bitwise.c)               |       O(log(N))      |       O(1)       | 0 ms, faster than 100.00% of C online submissions | 5.5 MB, less than 85.51% of C online submissions |
   |              [C (division)](https://github.com/Pandicon/leetcode/tree/main/problems/algorithms/0050/C/solution_division.c)               |       O(log(N))      |       O(1)       | 0 ms, faster than 100.00% of C online submissions | 5.4 MB, less than 85.51% of C online submissions |
+  |              [C++ (bitwise)](https://github.com/Pandicon/leetcode/tree/main/problems/algorithms/0050/Cpp/solution_bitwise.cpp)               |       O(log(N))      |       O(1)       | 0 ms, faster than 100.00% of C++ online submissions | 5.9 MB, less than 80.61% of C++ online submissions |
+  |              [C++ (division)](https://github.com/Pandicon/leetcode/tree/main/problems/algorithms/0050/Cpp/solution_division.cpp)               |       O(log(N))      |       O(1)       | 0 ms, faster than 100.00% of C++ online submissions | 5.9 MB, less than 80.61% of C++ online submissions |
 </details>
 
 ## References
