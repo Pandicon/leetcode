@@ -69,6 +69,10 @@ You can also create an array of 0s (or any other number really) of the same leng
   | :-----------------------------: | :-------------: | :--------------: | :--------------------------------------------------: | :--------------------------------------------------: |
   |     [Rust (filtering method)](https://github.com/Pandicon/leetcode/tree/main/problems/algorithms/2149/Rust/solution_filtering.rs)     |       O(N)      |       O(N)       | 76 ms, faster than 93.75% of Rust online submissions | 4.6 MB, less than 100.00% of Rust online submissions |
   |       [Rust (two pointers)](https://github.com/Pandicon/leetcode/tree/main/problems/algorithms/2149/Rust/solution_two_pointers.rs)      |       O(N)      |       O(N)       | 72 ms, faster than 93.75% of Rust online submissions |  5.4 MB, less than 31.25% of Rust online submissions |
+  |     [C (filtering method)](https://github.com/Pandicon/leetcode/tree/main/problems/algorithms/2149/C/solution_filtering.c)     |       O(N)      |       O(N)       | 1117 ms, faster than 64.41% of C online submissions | 103.7 MB, less than 10.17% of C online submissions |
+  |       [C (two pointers)](https://github.com/Pandicon/leetcode/tree/main/problems/algorithms/2149/C/solution_two_pointers.c)      |       O(N)      |       O(N)       | 1139 ms, faster than 62.71% of C online submissions |  99.5 MB, less than 57.63% of C online submissions |
+  |     [C++ (filtering method)](https://github.com/Pandicon/leetcode/tree/main/problems/algorithms/2149/Cpp/solution_filtering.cpp)     |       O(N)      |       O(N)       | 302 ms, faster than 68.01% of C++ online submissions | 140.5 MB, less than 20.15% of C++ online submissions |
+  |       [C++ (two pointers)](https://github.com/Pandicon/leetcode/tree/main/problems/algorithms/2149/Cpp/solution_two_pointers.cpp)      |       O(N)      |       O(N)       | 247 ms, faster than 90.03% of C++ online submissions |  123.8 MB, less than 87.22% of C++ online submissions |
 </details>
 
 ## References
